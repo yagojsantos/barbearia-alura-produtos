@@ -6,7 +6,7 @@ Segunda página codificada. Nessa aula da formação de Front-end da Alura apren
 | -------------  | --- |
 | :sparkles: Nome        | **Página de Produtos**
 | :label: Tecnologias | html, css
-| :rocket: URL         | https://url-deploy.com.br
+| :rocket: URL         | https://yagojsantos.github.io/barbearia-alura-produtos/
 
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
