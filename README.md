@@ -1,17 +1,32 @@
-# Nome do meu projeto
+# Barbearia Alura - Produtos
 
-Rápida descrição do objetivo de fazer esse projeto
+Segunda página codificada. Nessa aula da formação de Front-end da Alura aprendi um maior número de propriedades do css que contribuem para a elaboração de um layout melhor estilizado e atraente.
 
 | :placard: Vitrine.Dev |     |
 | -------------  | --- |
-| :sparkles: Nome        | **Titulo do meu projeto**
-| :label: Tecnologias | java, html, ruby, c# (tecnologias utilizadas)
+| :sparkles: Nome        | **Página de Produtos**
+| :label: Tecnologias | html, css
 | :rocket: URL         | https://url-deploy.com.br
-| :fire: Desafio     | https://url-do-desafio.com.br
+
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
-![](https://via.placeholder.com/1200x500.png?text=imagem+lindona+do+meu+projeto#vitrinedev)
+![](https://github.com/yagojsantos/barbearia-alura-produtos/blob/main/capa.png#vitrinedev)
 
 ## Detalhes do projeto
 
-Textos e imagens que descrevam seu projeto, suas conquistas, seus desafios, próximos passos, etc...
+A maior dificuldade foi compreender o funcionamento da propriedade Position com o valor Absolute ou Relative, mas revendo o vídeo e pesquisando em outras fontes, consegui entender.
+
+Um rápido Overview doque aprendi:
+
+Html
+* Tags semânticas (header, nav, main, footer);
+
+Css
+* Como modificar o posicionamento dos elementos (position);
+* Manter o tamanho do elemento mesmo usando espaçamento interno ou externo(box-sizing);
+* Propriedades de borda e seu arredondamento (border: color width style radius);
+* Pseudo-classes para especificar o estado do elemento (:hover :active);
+* A forma de definir uma imagem como pano de fundo (backcground: url());
+
+
+
